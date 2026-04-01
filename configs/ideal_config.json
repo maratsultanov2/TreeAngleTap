@@ -1,0 +1,32 @@
+{
+  "name": "TreeAngleTap (TAT-7)",
+  "version": "2.0",
+  "date": "2026-03-30",
+  "filter": {
+    "solo": 0.55,
+    "rhythm": 0.43,
+    "harmony": 2.0
+  },
+  "memory": {
+    "temperature": 0.7,
+    "entropy": 1.18
+  },
+  "compressor": {
+    "depth": 1,
+    "layers": [
+      128
+    ]
+  },
+  "classifier": {
+    "layers": [
+      128
+    ],
+    "activation": "silu",
+    "dropout": 0.3
+  },
+  "results": {
+    "cifar10": 83.04,
+    "mnist": 97.42,
+    "cifar100": 24.73
+  }
+}
