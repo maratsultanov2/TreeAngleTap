@@ -4,11 +4,13 @@
 *Время, Угол, Касание — единый резонанс.*  
 *时间，角度，触感 — 共振一体。*
 
-**TreeAngleTap** — экспериментальная площадка архитектуры **TAT-7**. Здесь тестируются гипотезы, которые затем внедряются в основную ветку.
+**TreeAngleTap** — экспериментальная площадка архитектуры **TAT-7**. Здесь тестируются гипотезы, которые затем внедряются в основную ветку.  
+**TreeAngleTap** is the experimental ground for the **TAT-7** architecture. Hypotheses are tested here before being merged into the main branch.  
+**TreeAngleTap** 是 **TAT-7** 架构的实验平台。在这里测试的假设随后会合并到主分支。
 
 ---
 
-### 🏆 Ключевые результаты TAT-7
+### 🏆 Ключевые результаты TAT-7 | Key Results of TAT-7 | TAT-7 关键成果
 
 | Бенчмарк | Результат | Рейтинг | Дата |
 |:---|:---|:---|:---|
@@ -19,7 +21,7 @@
 
 ---
 
-### 📅 История проекта
+### 📅 История проекта | Project History | 项目历史
 
 **2025**
 - **Янв–Апр:** исследование архитектур CNN, ResNet, проблем градиентов
@@ -36,7 +38,7 @@
 
 ---
 
-### 🧪 Текущие эксперименты
+### 🧪 Текущие эксперименты | Current Experiments | 当前实验
 
 - Кух-формализм и фазовые переходы (`θ = 1.987`)
 - Оптимальное число голов (3 / 5 / 7)
@@ -44,7 +46,7 @@
 
 ---
 
-### 🔗 Связанные проекты
+### 🔗 Связанные проекты | Related Projects | 相关项目
 
 - [TAT-7](https://github.com/maratsultanov2/TAT-7) — флагманская архитектура
 - [TAT Agent Helper](https://github.com/maratsultanov2/TAT_agent_helper) — автономный агент
@@ -52,11 +54,11 @@
 
 ---
 
-### 👤 Автор
+### 👤 Автор | Author | 作者
 
-**Марат Султанов**  
+**Марат Султанов | Marat Sultanov**  
 [GitHub](https://github.com/maratsultanov2) | [Telegram](https://t.me/Marat_Sultanow)
 
 ---
 
-*TreeAngleTap — от геометрии к резонансу.*
+*TreeAngleTap — от геометрии к резонансу. | From geometry to resonance. | 从几何到共振。*
