@@ -1,88 +1,120 @@
 # 🌳 TreeAngleTap
 
-*Tempus, Angulus, Tactus — una resonantia.*  
-*Время, Угол, Касание — единый резонанс.*  
-*时间，角度，触感 — 共振一体。*
+*Tempus, Angulus, Tactus — una resonantia.*
 
-**TreeAngleTap** — экспериментальная площадка архитектуры **TAT-7**. Здесь тестируются гипотезы, которые затем внедряются в основную ветку.  
-**TreeAngleTap** is the experimental ground for the **TAT-7** architecture. Hypotheses are tested here before being merged into the main branch.  
-**TreeAngleTap** 是 **TAT-7** 架构的实验平台。在这里测试的假设随后会合并到主分支。
+<details open>
+<summary><b>🇬🇧 English</b></summary>
+<br>
 
----
+**TreeAngleTap** is the experimental ground for the **TAT-7** architecture.
 
-### 🏆 Ключевые результаты TAT-7 | Key Results of TAT-7 | TAT-7 关键成果
+### 🏆 Key Results
+| Benchmark | Result | Rating | Date |
+|:---|:---|:---|:---|
+| REBUS | 19.40% | Top-5 World | 18.03.2026 |
+| MNIST | 97.82% | Top-10 World | 19.03.2026 |
 
+<details>
+<summary><b>📊 Comparison with other architectures</b></summary>
+<br>
+
+| Architecture | REBUS | MNIST | Parameters |
+|:---|:---|:---|:---|
+| **TAT-7** | **19.40%** | **97.82%** | **0.45M** |
+| ResNet-18 | 22.1% | 99.2% | 11.7M |
+| EfficientNet-B0 | 20.3% | 99.0% | 5.3M |
+
+*TAT-7 achieves competitive results with **10-20x fewer parameters**.*
+</details>
+
+### 🚀 TAT ONE TAP (Coming Soon)
+*Everyone looks for clients. Clients look for understanding. You can't give enough of it to convert.*
+**We — find, give, return, remember.**
+Autonomous AI agent. No server. No VPN. No subscriptions.
+
+[![Subscribe](https://img.shields.io/badge/Subscribe-Watch%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/maratsultanov2/TreeAngleTap/subscription)
+
+</details>
+
+<details>
+<summary><b>🇷🇺 Русский</b></summary>
+<br>
+
+**TreeAngleTap** — экспериментальная площадка архитектуры **TAT-7**.
+
+### 🏆 Ключевые результаты
 | Бенчмарк | Результат | Рейтинг | Дата |
 |:---|:---|:---|:---|
 | REBUS | 19.40% | Топ-5 мира | 18.03.2026 |
 | MNIST | 97.82% | Топ-10 мира | 19.03.2026 |
-| CIFAR-10 (CL) | 91.7% | 10 задач | 2025 |
-| TinyImageNet (CL) | 39.9% | 20 задач | 10.03.2026 |
+
+<details>
+<summary><b>📊 Сравнение с другими архитектурами</b></summary>
+<br>
+
+| Архитектура | REBUS | MNIST | Параметры |
+|:---|:---|:---|:---|
+| **TAT-7** | **19.40%** | **97.82%** | **0.45M** |
+| ResNet-18 | 22.1% | 99.2% | 11.7M |
+| EfficientNet-B0 | 20.3% | 99.0% | 5.3M |
+
+*TAT-7 достигает конкурентоспособных результатов при **в 10-20 раз меньшем числе параметров**.*
+</details>
+
+### 🚀 TAT ONE TAP (скоро)
+*Все ищут клиентов. Клиенты ищут понимания. Вы не можете дать его достаточно для конверсии.*
+**Мы — ищем, даём, возвращаем, помним.**
+Автономный AI-агент. Без сервера. Без VPN. Без подписок.
+
+[![Subscribe](https://img.shields.io/badge/Подписаться-Следить%20за%20репозиторием-blue?style=for-the-badge&logo=github)](https://github.com/maratsultanov2/TreeAngleTap/subscription)
+
+</details>
+
+<details>
+<summary><b>🇨🇳 中文</b></summary>
+<br>
+
+**TreeAngleTap** 是 **TAT-7** 架构的实验平台。
+
+### 🏆 关键成果
+| 基准 | 结果 | 评级 | 日期 |
+|:---|:---|:---|:---|
+| REBUS | 19.40% | 世界前五 | 18.03.2026 |
+| MNIST | 97.82% | 世界前十 | 19.03.2026 |
+
+### 🚀 TAT ONE TAP (即将推出)
+*所有人都在寻找客户。客户在寻找理解。您无法提供足够的理解来实现转化。*
+**我们 — 寻找、给予、返回、记住。**
+自主 AI 代理。无需服务器。无需 VPN。无需订阅。
+
+[![Subscribe](https://img.shields.io/badge/订阅-关注仓库-blue?style=for-the-badge&logo=github)](https://github.com/maratsultanov2/TreeAngleTap/subscription)
+
+</details>
 
 ---
 
-### 📅 История проекта | Project History | 项目历史
-
-**2025**
-- **Янв–Апр:** исследование архитектур CNN, ResNet, проблем градиентов
-- **Май:** формирование концепции Multi-Head, создание **Triplenet** (3 головы)
-- **Июн–Авг:** экспериментальная проверка Triplenet, анализ границ масштабирования
-- **Сен–Дек:** проектирование и прототипирование архитектуры **TAT**
-
-**2026**
-- **17.03:** рождение архитектуры **TAT-7**
-- **18.03:** **19.40% на REBUS** — Топ-5 мира
-- **19.03:** открытие **7 голов** как оптимального числа
-- **19.03:** **97.82% на MNIST** — Топ-10 мира
-- **Апр:** запуск **TAT Agent Helper** — автономного агента для лидогенерации
+### 🔗 Связанные проекты
+- [TAT-7](https://github.com/maratsultanov2/TAT-7)
+- [TAT Agent Helper](https://github.com/maratsultanov2/TAT_agent_helper)
+- [Triplenet](https://github.com/maratsultanov2/Triplenet)
 
 ---
 
-### 🧪 Текущие эксперименты | Current Experiments | 当前实验
-
-- Кух-формализм и фазовые переходы (`θ = 1.987`)
-- Оптимальное число голов (3 / 5 / 7)
-- Голографическая память и хеш-цепочки
+### 👤 Автор
+**Марат Султанов** | [GitHub](https://github.com/maratsultanov2) | [Telegram](https://t.me/Marat_Sultanow)
 
 ---
 
+### ☕ Поддержать проект
 
+TAT создаётся и поддерживается одним разработчиком. Если проект оказался полезным, вы можете поддержать его развитие.
 
----
+[![T-Bank](https://img.shields.io/badge/Т--Банк-40817810600068291171-blue?style=flat-square)]()
+[![ЮMoney](https://img.shields.io/badge/ЮMoney-4100119011323328-purple?style=flat-square)]()
 
-### 🧠 Теоретический фундамент
-
-**1. Multi-Head с простыми числами**
-Эксперименты показали: нечётные простые числа голов (3, 5, 7) дают лучшую сходимость. Оптимум — 7 голов.
-
-**2. Фазовые переходы (Кух-формализм)**
-Плавные переходы между слоями: `W_k = w_k * e^(i * θ_k)`. Оптимальный фазовый сдвиг определён экспериментально.
-
-**3. Резонансное восстановление памяти (RMR)**
-Память о ранних задачах восстанавливается скачком при столкновении с семантически близкой задачей. Подтверждено на TinyImageNet: 5.4% → 14.0% (задача 19).
-
-**4. Голографическое сжатие (HC)**
-Состояние системы сжимается в хеш-слепок. Потеря до 90% данных не разрушает ключевую структуру.
-
-**5. Ритмическая синхронизация (RS)**
-Компоненты синхронизируются через общий ритм (автоцикл), а не через постоянную связь.
-
-*Связь с известными концепциями: принцип Ландауэра, теория интегрированной информации (IIT), фазовые переходы в статистической физике.*
-
-
-### 🔗 Связанные проекты | Related Projects | 相关项目
-
-- [TAT-7](https://github.com/maratsultanov2/TAT-7) — флагманская архитектура
-- [TAT Agent Helper](https://github.com/maratsultanov2/TAT_agent_helper) — автономный агент
-- [Triplenet](https://github.com/maratsultanov2/Triplenet) — предшественник
+*Каждая чашка кофе помогает оплачивать вычислительные мощности.*
 
 ---
 
-### 👤 Автор | Author | 作者
-
-**Марат Султанов | Marat Sultanov**  
-[GitHub](https://github.com/maratsultanov2) | [Telegram](https://t.me/Marat_Sultanow)
-
----
-
-*TreeAngleTap — от геометрии к резонансу. | From geometry to resonance. | 从几何到共振。*
+### 📄 Лицензия
+MIT License. Ключевые параметры архитектуры являются интеллектуальной собственностью автора.
