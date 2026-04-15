@@ -178,5 +178,43 @@ TAT создаётся и поддерживается одним разрабо
 
 ---
 
+
+<details open>
+<summary><b>🇬🇧 English</b></summary>
+<br>
+
+### 📦 Code Access
+
+The TAT-7 architecture implementation is available upon request. Contact me for access.
+
+[![Request Access](https://img.shields.io/badge/📧_Request_Access-Email-blue)](mailto:maratsultanov2@gmail.com)
+
+</details>
+
+<details>
+<summary><b>🇷🇺 Русский</b></summary>
+<br>
+
+### 📦 Доступ к коду
+
+Реализация архитектуры TAT-7 доступна по запросу. Свяжитесь со мной для получения доступа.
+
+[![Запросить доступ](https://img.shields.io/badge/📧_Запросить_доступ-Email-blue)](mailto:maratsultanov2@gmail.com)
+
+</details>
+
+<details>
+<summary><b>🇨🇳 中文</b></summary>
+<br>
+
+### 📦 代码访问
+
+TAT-7 架构的实现可根据请求提供。请联系我获取访问权限。
+
+[![请求访问](https://img.shields.io/badge/📧_请求访问-Email-blue)](mailto:maratsultanov2@gmail.com)
+
+</details>
+
+
 ### 📄 Лицензия
 MIT License. Ключевые параметры архитектуры являются интеллектуальной собственностью автора.
